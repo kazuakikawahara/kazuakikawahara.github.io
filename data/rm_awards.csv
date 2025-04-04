@@ -1,9 +1,6 @@
-awards
-ID,賞名(日本語),賞名(英語),タイトル(日本語),タイトル(英語),授与機関(日本語),授与機関(英語),受賞年月,主要な業績かどうか
-example-id,賞名,"Example Award Name",タイトル,"Example Title",授与機関,"Example Awarder",2025-03,false
-49341459,青葉研究奨励賞,"Aoba Research Encouragement Prize",null,null,青葉研究奨励会,"Aoba Research Foundation",2025-03,false
-48550881,"Institutional Participant in the Rising Stars Women in Science Workshop",null,null,null,null,null,2024-11,false
-46398327,理学系研究科研究科長賞（研究最優秀）,"Dean's Award (Excellence in Research)",null,null,京都大学,"Kyoto University",2023-03,false
-46398303,日本生物学会第64回シンポジウム最優秀ポスター賞,null,null,null,日本生物学会,null,2021-11,false
-46398299,日本化学学会・物理学会奨学賞,null,null,null,"日本化学学会 物理学会",null,2018-03,false
-46398295,理学部長賞,"Dean's Award",null,null,京都大学,"Kyoto University",2018-03,false
+﻿awards
+アクション名,アクションタイプ,類似業績マージ優先度,ID,賞名(日本語),賞名(英語),受賞者・グループ(日本語),受賞者・グループ(英語),タイトル(日本語),タイトル(英語),授与機関(日本語),授与機関(英語),概要(日本語),概要(英語),受賞年月,受賞区分,受賞国・地域,URL,主要な業績かどうか,公開の有無
+insert,merge,null,49657726,優秀発表賞,null,[川原一晃],null,"Application of Markov chain Monte Carlo method to curve fitting",null,第17回結晶界面工学研究会,null,null,null,2017-09,null,null,null,false,disclosed
+insert,merge,null,42409481,"JSPS HOPE Fellow",null,[川原一晃],null,"Structure of silicene grown on Ag(111)",null,日本学術振興会,null,null,null,2016-03,null,null,null,false,disclosed
+insert,merge,null,42409496,"Student Prize",null,[川原一晃],null,"Ag(111) 上に成長させたシリセンの構造",null,表面界面スペクトロスコピー,null,null,null,2014-12,null,null,null,false,disclosed
+insert,merge,null,42409501,新領域創成科学研究科長賞,null,[川原一晃],null,Ag(111)上に成長させたシリセンの構造,null,東京大学,null,null,null,2014-03,null,null,null,false,disclosed
