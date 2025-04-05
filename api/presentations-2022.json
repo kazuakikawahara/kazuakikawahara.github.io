@@ -1,0 +1,58 @@
+[
+  {
+    "id": "42409240",
+    "title": "Cs添加KSbF4のフッ化物イオン伝導",
+    "titleJa": "Cs添加KSbF4のフッ化物イオン伝導",
+    "speakers": "川原一晃,石川亮,柴田直哉,幾原雄一",
+    "speakersJa": "川原一晃,石川亮,柴田直哉,幾原雄一",
+    "conference": "第63回電池討論会",
+    "conferenceJa": "第63回電池討論会",
+    "date": "2022-11",
+    "year": "2022",
+    "place": "",
+    "placeJa": "",
+    "isInvited": false
+  },
+  {
+    "id": "42409035",
+    "title": "Fluoride ion conductivity of Cs-doped KSbF4",
+    "titleJa": "Fluoride ion conductivity of Cs-doped KSbF4",
+    "speakers": "Kazuaki Kawahara,Ryo Ishikawa,Naoya Shibata,Yuichi Ikuhara",
+    "speakersJa": "Kazuaki Kawahara,Ryo Ishikawa,Naoya Shibata,Yuichi Ikuhara",
+    "conference": "23rd International Conference on Solid State Ionics",
+    "conferenceJa": "23rd International Conference on Solid State Ionics",
+    "date": "2022-07",
+    "year": "2022",
+    "place": "",
+    "placeJa": "",
+    "isInvited": false
+  },
+  {
+    "id": "42409246",
+    "title": "Total variation正則化を用いた原子分解能STEM像のノイズ除去",
+    "titleJa": "Total variation正則化を用いた原子分解能STEM像のノイズ除去",
+    "speakers": "川原一晃,石川亮,佐々野駿,柴田直哉,幾原雄一",
+    "speakersJa": "川原一晃,石川亮,佐々野駿,柴田直哉,幾原雄一",
+    "conference": "日本顕微鏡学会第78回学術講演会",
+    "conferenceJa": "日本顕微鏡学会第78回学術講演会",
+    "date": "2022-05",
+    "year": "2022",
+    "place": "",
+    "placeJa": "",
+    "isInvited": false
+  },
+  {
+    "id": "42409255",
+    "title": "Cs添加KSbF4(K1-xCsxSbF4)のフッ化物イオン伝導",
+    "titleJa": "Cs添加KSbF4(K1-xCsxSbF4)のフッ化物イオン伝導",
+    "speakers": "川原一晃,石川亮,柴田直哉,幾原雄一",
+    "speakersJa": "川原一晃,石川亮,柴田直哉,幾原雄一",
+    "conference": "日本セラミックス協会2022年年会",
+    "conferenceJa": "日本セラミックス協会2022年年会",
+    "date": "2022-03",
+    "year": "2022",
+    "place": "",
+    "placeJa": "",
+    "isInvited": false
+  }
+]

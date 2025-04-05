@@ -1,0 +1,44 @@
+[
+  {
+    "id": "42409288",
+    "title": "フルオロアンチモン酸カリウム(KSbxF1+3x)のフッ化物イオン伝導",
+    "titleJa": "フルオロアンチモン酸カリウム(KSbxF1+3x)のフッ化物イオン伝導",
+    "speakers": "川原一晃,石川亮,仲山啓,柴田直哉,幾原雄一",
+    "speakersJa": "川原一晃,石川亮,仲山啓,柴田直哉,幾原雄一",
+    "conference": "第61回電池討論会",
+    "conferenceJa": "第61回電池討論会",
+    "date": "2020-11",
+    "year": "2020",
+    "place": "",
+    "placeJa": "",
+    "isInvited": false
+  },
+  {
+    "id": "42409298",
+    "title": "界面接合の実験と数理",
+    "titleJa": "界面接合の実験と数理",
+    "speakers": "川原一晃,井上和俊,斎藤光浩,荒船竜一,林俊良,高木紀明,川合眞紀,幾原雄一",
+    "speakersJa": "川原一晃,井上和俊,斎藤光浩,荒船竜一,林俊良,高木紀明,川合眞紀,幾原雄一",
+    "conference": "IMI workshop II: 材料科学における幾何と代数I",
+    "conferenceJa": "IMI workshop II: 材料科学における幾何と代数I",
+    "date": "2020-09",
+    "year": "2020",
+    "place": "",
+    "placeJa": "",
+    "isInvited": true
+  },
+  {
+    "id": "42409305",
+    "title": "フルオロアンチモン(III)酸カリウムのフッ化物イオン伝導",
+    "titleJa": "フルオロアンチモン(III)酸カリウムのフッ化物イオン伝導",
+    "speakers": "川原一晃,石川亮,柴田直哉,幾原雄一",
+    "speakersJa": "川原一晃,石川亮,柴田直哉,幾原雄一",
+    "conference": "日本セラミックス協会2020年会",
+    "conferenceJa": "日本セラミックス協会2020年会",
+    "date": "2020-03",
+    "year": "2020",
+    "place": "",
+    "placeJa": "",
+    "isInvited": false
+  }
+]
